@@ -1,0 +1,48 @@
+{
+    "matches": [
+        {
+            "type": "Women's Doubles",
+            "location": "Rod Laver Arena",
+            "duration": "1h29m",
+            "team1": [
+                "B.Krejoikova",
+                "K.Siniakova"
+            ],
+            "team1_score": [
+                6,
+                6
+            ],
+            "team2": [
+                "S.Aoyama",
+                "E.Shibahara"
+            ],
+            "team2_score": [
+                4,
+                3
+            ],
+            "winner_id": "1"
+        },
+        {
+            "type": "Men's Singles",
+            "location": "Rod Laver Arena",
+            "duration": "2h59m",
+            "team1": [
+                "S.Tsitsipas"
+            ],
+            "team1_score": [
+                3,
+                6,
+                6
+            ],
+            "team2": [
+                "N.Djokovic"
+            ],
+            "team2_score": [
+                6,
+                7,
+                7
+            ],
+            "winner_id": "2"
+        }
+    ]
+}

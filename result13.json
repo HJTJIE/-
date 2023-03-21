@@ -1,0 +1,156 @@
+{
+    "matches": [
+        {
+            "type": "Junior Girls'Singles",
+            "location": "Rod Laver Arena",
+            "duration": "3h18m",
+            "team1": [
+                "M.Andreeva"
+            ],
+            "team1_score": [
+                7,
+                4,
+                5
+            ],
+            "team2": [
+                "A.Korneeva"
+            ],
+            "team2_score": [
+                6,
+                6,
+                7
+            ],
+            "winner_id": "2"
+        },
+        {
+            "type": "Junior Boys'Singles",
+            "location": "Rod Laver Arena",
+            "duration": "2h9m",
+            "team1": [
+                "A.Blockx"
+            ],
+            "team1_score": [
+                6,
+                2,
+                7
+            ],
+            "team2": [
+                "L.Tien"
+            ],
+            "team2_score": [
+                1,
+                6,
+                6
+            ],
+            "winner_id": "1"
+        },
+        {
+            "type": "Women's Singles",
+            "location": "Rod Laver Arena",
+            "duration": "2h28m",
+            "team1": [
+                "E.Rybakina"
+            ],
+            "team1_score": [
+                6,
+                3,
+                4
+            ],
+            "team2": [
+                "A.Sabalenka"
+            ],
+            "team2_score": [
+                4,
+                6,
+                6
+            ],
+            "winner_id": "2"
+        },
+        {
+            "type": "Men's Doubles",
+            "location": "Rod Laver Arena",
+            "duration": "1h23m",
+            "team1": [
+                "R.Hijikata",
+                "J.Kubler"
+            ],
+            "team1_score": [
+                6,
+                7
+            ],
+            "team2": [
+                "H.Nys",
+                "J.Zielinski"
+            ],
+            "team2_score": [
+                4,
+                6
+            ],
+            "winner_id": "1"
+        },
+        {
+            "type": "Women's Wheelchair Singles",
+            "location": "Margaret Court Arena",
+            "duration": "1h48m",
+            "team1": [
+                "D.De Groot"
+            ],
+            "team1_score": [
+                0,
+                6,
+                6
+            ],
+            "team2": [
+                "Y.Kamiji"
+            ],
+            "team2_score": [
+                6,
+                2,
+                2
+            ],
+            "winner_id": "1"
+        },
+        {
+            "type": "Quad Wheelchair Singles",
+            "location": "Margaret Court Arena",
+            "duration": "1h32m",
+            "team1": [
+                "N.Vink"
+            ],
+            "team1_score": [
+                2,
+                5
+            ],
+            "team2": [
+                "S.Schroder"
+            ],
+            "team2_score": [
+                6,
+                7
+                
+            ],
+            "winner_id": "2"
+        },
+        {
+            "type": "Men's Wheelchair Singles",
+            "location": "Margaret Court Arena",
+            "duration": "1h9m",
+            "team1": [
+                "A.Hewett"
+            ],
+            "team1_score": [
+                6,
+                6
+            ],
+            "team2": [
+                "T.Oda"
+            ],
+            "team2_score": [
+                3,
+                1
+                
+            ],
+            "winner_id": "1"
+        }
+    ]
+}
