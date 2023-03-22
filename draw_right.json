@@ -1,0 +1,63 @@
+{
+    "matches": [
+        {
+            "team1": [
+                "K.Khachanov"
+            ],
+            "team1_score": [
+                6,
+                4,
+                7,
+                3
+            ],
+            "team2": [
+                "S.Tsitsipas"
+            ],
+            "team2_score": [
+                7,
+                6,
+                6,
+                6
+            ],
+            "winner_id": "2"
+        },
+        {
+            "team1": [
+                "N.Djokovic"
+            ],
+            "team1_score": [
+                7,
+                6,
+                6
+            ],
+            "team2": [
+                "T.Paul"
+            ],
+            "team2_score": [
+                5,
+                1,
+                2
+            ],
+            "winner_id": "1"
+        },
+        {
+            "team1": [
+                "S.Tsitsipas"
+            ],
+            "team1_score": [
+                3,
+                6,
+                6
+            ],
+            "team2": [
+                "N.Djokovic"
+            ],
+            "team2_score": [
+                6,
+                7,
+                7
+            ],
+            "winner_id": "2"
+        }
+    ]
+}

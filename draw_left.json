@@ -1,0 +1,254 @@
+{
+    "matches": [
+        {
+            "team1": [
+                "Y.Nishioka"
+            ],
+            "team1_score": [
+                0,
+                0,
+                6
+            ],
+            "team2": [
+                "K.Khachanov"
+            ],
+            "team2_score": [
+                6,
+                6,
+                7
+            ],
+            "winner_id": "2"
+        },
+        {
+            "team1": [
+                "H.Hurkacz"
+            ],
+            "team1_score": [
+                6,
+                3,
+                2,
+                6,
+                6
+            ],
+            "team2": [
+                "S.Korda"
+            ],
+            "team2_score": [
+                3,
+                6,
+                6,
+                1,
+                7
+            ],
+            "winner_id": "2"
+        },
+        {
+            "team1": [
+                "S.Tsitsipas"
+            ],
+            "team1_score": [
+                6,
+                6,
+                3,
+                4,
+                6
+            ],
+            "team2": [
+                "J.Sinner"
+            ],
+            "team2_score": [
+                4,
+                4,
+                6,
+                6,
+                3
+            ],
+            "winner_id": "1"
+        },
+        {
+            "team1": [
+                "J.Lehecka"
+            ],
+            "team1_score": [
+                4,
+                6,
+                7,
+                7
+            ],
+            "team2": [
+                "F.Auger-Aliassime"
+            ],
+            "team2_score": [
+                6,
+                3,
+                6,
+                6
+            ],
+            "winner_id": "1"
+        },
+        {
+            "team1": [
+                "A.Rublev"
+            ],
+            "team1_score": [
+                6,
+                3,
+                6,
+                4,
+                7
+            ],
+            "team2": [
+                "H.Rune"
+            ],
+            "team2_score": [
+                3,
+                6,
+                3,
+                6,
+                6
+            ],
+            "winner_id": "1"
+        },
+        {
+            "team1": [
+                "A.de Minaur"
+            ],
+            "team1_score": [
+                2,
+                1,
+                2
+            ],
+            "team2": [
+                "N.Djokovic"
+            ],
+            "team2_score": [
+                6,
+                6,
+                6
+            ],
+            "winner_id": "2"
+        },
+        {
+            "team1": [
+                "B.Shelton"
+            ],
+            "team1_score": [
+                6,
+                6,
+                6,
+                7,
+                6
+            ],
+            "team2": [
+                "J.Wolf"
+            ],
+            "team2_score": [
+                7,
+                2,
+                7,
+                6,
+                2
+            ],
+            "winner_id": "1"
+        },
+        {
+            "team1": [
+                "R.Bautista Agut"
+            ],
+            "team1_score": [
+                2,
+                6,
+                2,
+                5
+            ],
+            "team2": [
+                "T.Paul"
+            ],
+            "team2_score": [
+                6,
+                4,
+                6,
+                7
+            ],
+            "winner_id": "2"
+        },
+        {
+            "team1": [
+                "K.Khachanov"
+            ],
+            "team1_score": [
+                7,
+                6,
+                3
+            ],
+            "team2": [
+                "S.Korda"
+            ],
+            "team2_score": [
+                6,
+                3,
+                0
+            ],
+            "winner_id": "1"
+        },
+        {
+            "team1": [
+                "S.Tsitsipas"
+            ],
+            "team1_score": [
+                6,
+                7,
+                6
+            ],
+            "team2": [
+                "J.Lehecka"
+            ],
+            "team2_score": [
+                3,
+                6,
+                4
+            ],
+            "winner_id": "1"
+        },
+        {
+            "team1": [
+                "A.Rublev"
+            ],
+            "team1_score": [
+                1,
+                2,
+                4
+            ],
+            "team2": [
+                "N.Djokovic"
+            ],
+            "team2_score": [
+                6,
+                6,
+                6
+            ],
+            "winner_id": "2"
+        },
+        {
+            "team1": [
+                "B.Shelton"
+            ],
+            "team1_score": [
+                6,
+                3,
+                7,
+                4
+            ],
+            "team2": [
+                "T.Paul"
+            ],
+            "team2_score": [
+                7,
+                6,
+                5,
+                6
+            ],
+            "winner_id": "2"
+        }
+    ]
+}
